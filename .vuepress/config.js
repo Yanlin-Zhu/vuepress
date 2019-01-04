@@ -4,7 +4,7 @@ module.exports = {
   head: [
       ['link', { rel: 'shortcut icon', type: "image/x-icon", href: `https://assets-cdn.github.com/favicon.ico` }]
   ],
-  base: '/',
+  base: '/vuepress/',
   host: '127.0.0.1',
   port: 8080,
   themeConfig: {
